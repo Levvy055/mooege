@@ -1,6 +1,6 @@
 ###Current Status:
 * You can Login, create characters and enter world.
-* Client requires patching. (Don't patch to the newest patch)
+* Client requires patching. 10057 (Don't patch to the newest patch)
 
 ***
 
